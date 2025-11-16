@@ -6,34 +6,6 @@ This repository contains a comprehensive business intelligence and financial ana
 
 The primary goal is to identify profitability drivers and operational bottlenecks, providing strategic recommendations to maximize future growth and margin.
 
-🚀 Key Performance Indicators (KPIs) Summary
-
-The analysis period (2020-2023) demonstrated massive scale and successful execution, as evidenced by the top-line metrics:
-
-Metric
-
-Value
-
-Achievement
-
-Total Sales (4 Years)
-
-$856.05 Billion
-
-Cumulative Gross Revenue
-
-Total Profit (4 Years)
-
-$113.28 Billion
-
-Cumulative Net Profit
-
-2023 Sales KPI Attainment
-
-+11.39%
-
-Successfully exceeded the sales target of $261.383bn
-
 🔍 Core Insights and Findings
 
 The detailed analysis highlighted critical regional and operational asymmetries:
